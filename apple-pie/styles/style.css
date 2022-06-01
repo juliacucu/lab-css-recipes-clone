@@ -1,0 +1,12 @@
+head {
+    background-image:
+  
+    url('apple-pie.jpg');
+    background-position: 0,0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+  }
+  .head-title {
+    color: white;
+  }
